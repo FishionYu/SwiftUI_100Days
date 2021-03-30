@@ -15,6 +15,7 @@
 		717E4A8826120E7700F9F2A3 /* PodCastUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4A8726120E7700F9F2A3 /* PodCastUITests.swift */; };
 		717E4A992612216200F9F2A3 /* NowListenToIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4A982612216200F9F2A3 /* NowListenToIView.swift */; };
 		717E4A9E2612225800F9F2A3 /* ComponentLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4A9D2612225800F9F2A3 /* ComponentLibrary.swift */; };
+		717E4AA32613674C00F9F2A3 /* PlayBarAndPlayPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4AA22613674C00F9F2A3 /* PlayBarAndPlayPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		717E4A8926120E7700F9F2A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		717E4A982612216200F9F2A3 /* NowListenToIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowListenToIView.swift; sourceTree = "<group>"; };
 		717E4A9D2612225800F9F2A3 /* ComponentLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComponentLibrary.swift; sourceTree = "<group>"; };
+		717E4AA22613674C00F9F2A3 /* PlayBarAndPlayPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayBarAndPlayPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				717E4A7026120E7600F9F2A3 /* Preview Content */,
 				717E4A982612216200F9F2A3 /* NowListenToIView.swift */,
 				717E4A9D2612225800F9F2A3 /* ComponentLibrary.swift */,
+				717E4AA22613674C00F9F2A3 /* PlayBarAndPlayPage.swift */,
 			);
 			path = PodCast;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				717E4A6D26120E7600F9F2A3 /* ContentView.swift in Sources */,
+				717E4AA32613674C00F9F2A3 /* PlayBarAndPlayPage.swift in Sources */,
 				717E4A9E2612225800F9F2A3 /* ComponentLibrary.swift in Sources */,
 				717E4A992612216200F9F2A3 /* NowListenToIView.swift in Sources */,
 				717E4A6B26120E7600F9F2A3 /* PodCastApp.swift in Sources */,
