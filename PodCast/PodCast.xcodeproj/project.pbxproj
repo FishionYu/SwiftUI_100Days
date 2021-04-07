@@ -16,6 +16,7 @@
 		717E4A992612216200F9F2A3 /* NowListenToIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4A982612216200F9F2A3 /* NowListenToIView.swift */; };
 		717E4A9E2612225800F9F2A3 /* ComponentLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4A9D2612225800F9F2A3 /* ComponentLibrary.swift */; };
 		717E4AA32613674C00F9F2A3 /* PlayBarAndPlayPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717E4AA22613674C00F9F2A3 /* PlayBarAndPlayPage.swift */; };
+		71866D0B261DDC2F0049B997 /* PodCastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71866D0A261DDC2F0049B997 /* PodCastView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		717E4A982612216200F9F2A3 /* NowListenToIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowListenToIView.swift; sourceTree = "<group>"; };
 		717E4A9D2612225800F9F2A3 /* ComponentLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComponentLibrary.swift; sourceTree = "<group>"; };
 		717E4AA22613674C00F9F2A3 /* PlayBarAndPlayPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayBarAndPlayPage.swift; sourceTree = "<group>"; };
+		71866D0A261DDC2F0049B997 /* PodCastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodCastView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				717E4A982612216200F9F2A3 /* NowListenToIView.swift */,
 				717E4A9D2612225800F9F2A3 /* ComponentLibrary.swift */,
 				717E4AA22613674C00F9F2A3 /* PlayBarAndPlayPage.swift */,
+				71866D0A261DDC2F0049B997 /* PodCastView.swift */,
 			);
 			path = PodCast;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				717E4A6D26120E7600F9F2A3 /* ContentView.swift in Sources */,
+				71866D0B261DDC2F0049B997 /* PodCastView.swift in Sources */,
 				717E4AA32613674C00F9F2A3 /* PlayBarAndPlayPage.swift in Sources */,
 				717E4A9E2612225800F9F2A3 /* ComponentLibrary.swift in Sources */,
 				717E4A992612216200F9F2A3 /* NowListenToIView.swift in Sources */,
